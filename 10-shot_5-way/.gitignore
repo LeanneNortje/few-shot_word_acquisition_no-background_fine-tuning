@@ -1,0 +1,15 @@
+data/spokencoco/
+data/
+examples/
+few-shot-sampling/dtw/
+few-shot-sampling/segment_examples/
+model_metadata/
+pretrained/
+support_set/
+
+*.wav
+*.jpg
+*.npz
+*.ckpt
+*/__pycache__/*
+*/__pycache__/*.pyc
