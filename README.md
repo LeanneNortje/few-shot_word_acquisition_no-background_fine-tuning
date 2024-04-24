@@ -1,6 +1,6 @@
 # Visually grounded few-shot word learning in low-resource settings: Few-shot MattNet without fine-tuning on background data
 
-This repo provides the source code for the MattNet model trained on few-shot mined pairs without fine-tuned background data, i.e. the model is pretrained and the fine-tuned only on mined pairs. 
+This repo provides the source code for the MattNet model trained on few-shot mined pairs without fine-tuned background data, i.e. the model is pretrained and then fine-tuned only on mined pairs. 
 The paper which is accepted to TASLP in 2024, is only available [here](https://arxiv.org/abs/2306.11371).
 
 ## Important note:
