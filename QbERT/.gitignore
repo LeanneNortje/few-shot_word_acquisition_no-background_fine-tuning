@@ -1,0 +1,7 @@
+*/__pycache__/*
+*/__pycache__/*.pyc
+segments/
+segments_flickr_english/
+segments_flickr_yoruba/
+
+.ipynb_checkpoints/
